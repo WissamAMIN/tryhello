@@ -1,0 +1,6 @@
+C:\Users\fall2017\Desktop\heello\heello\bin\Debug\heello.exe.config
+C:\Users\fall2017\Desktop\heello\heello\bin\Debug\heello.exe
+C:\Users\fall2017\Desktop\heello\heello\bin\Debug\heello.pdb
+C:\Users\fall2017\Desktop\heello\heello\obj\Debug\heello.csprojResolveAssemblyReference.cache
+C:\Users\fall2017\Desktop\heello\heello\obj\Debug\heello.exe
+C:\Users\fall2017\Desktop\heello\heello\obj\Debug\heello.pdb
